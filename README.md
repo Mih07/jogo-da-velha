@@ -32,7 +32,7 @@ O objetivo foi aplicar lógica de programação, manipulação do DOM e organiza
 
 ## 🖼 Prévia do projeto
 
-![Prévia do jogo](exemplo.png) <!-- substitua pelo caminho da sua imagem -->
+ https://mih07.github.io/jogo-da-velha/
 
 ---
 
